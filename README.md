@@ -1,3 +1,2 @@
 # printf
-# printf
-# printf
+my own printf
